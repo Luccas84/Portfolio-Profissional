@@ -2,4 +2,4 @@
 
 Bem-vindo ao meu projeto!
 
-![Logo do Projeto](https://github.com/Luccas84/Projeto-Starbucks/blob/main/Projeto_9.jpg)
+![Logo do Projeto](https://github.com/Luccas84/Portfolio-Profissional/blob/main/Projeto_10.jpg)
